@@ -7,3 +7,6 @@ This is a Django app for RSVP
 Note - uploaded images should be from same distribution as training images, other images might get predicted wrong prediction.
 
 If predict_vgg.py is used download .h5 file from <a href="https://drive.google.com/open?id=1XmSaxai2ePaLq6shpSiU3vjlwBYi8fmq">here</a> and put it in current directory
+
+<img src="./imgs/img1.png">
+<img src="./imgs/img2.png">
