@@ -1,0 +1,3 @@
+env
+.vscode
+vgg16_transfer_weights.h5
