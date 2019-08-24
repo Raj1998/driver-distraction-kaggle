@@ -1,5 +1,6 @@
 This is a image classifier to predict driver distraction while driving.
-For more information visit <a href="">here</a>
+
+For more information visit <a href="https://www.kaggle.com/c/state-farm-distracted-driver-detection" target="_blank">here</a>
 
 1. `virtualenv env`
 2. `source ./env/bin/activate`
